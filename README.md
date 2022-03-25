@@ -1,5 +1,4 @@
-- Hello, I’m Sam
-
+- Hello
 
 <!---
 sd-20/sd-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
